@@ -1,0 +1,2 @@
+# droolsNjbpm
+Drools PoC 
